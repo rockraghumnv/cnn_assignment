@@ -29,20 +29,20 @@ This script automates the setup and configuration of:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/rockraghumnv/cnn_assignment.git
+cd cnn_assignment
 ```
 
 #### 2. Make the script executable
 
 ```bash
-chmod +x script.py
+chmod +x cnn.py
 ```
 
 #### 3. Run the Script
 
 ```bash
-sudo python3 script.py
+sudo python3 cnn.py
 ```
 
 > 📝 **Note**: When prompted, enter the **last 3 digits** of your USN.
