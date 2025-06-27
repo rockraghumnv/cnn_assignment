@@ -28,6 +28,8 @@ This script automates the setup and configuration of:
 
 #### 1. Clone the Repository
 
+* sudo apt install git
+
 ```bash
 git clone https://github.com/rockraghumnv/cnn_assignment.git
 cd cnn_assignment
